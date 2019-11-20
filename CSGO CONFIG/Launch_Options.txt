@@ -1,0 +1,19 @@
+Used:
+-threads 8 
+-novid 
+-high 
++fps_max 0 
++fps_max_menu 0 
+-high 
+-language bananagaming 
+-refresh 144 
+-tickrate 128 
+-d3d9ex 
++exec vaganykarc.cfg 
+-console
+
+Could Be Useful:
+-novid
+-console
+-tickrate 128
++exec vaganykarc.cfg

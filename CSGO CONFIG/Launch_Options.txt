@@ -1,7 +1,6 @@
 Used:
 -threads 8 
--novid 
--high 
+-novid
 +fps_max 0 
 +fps_max_menu 0 
 -language bananagaming 
@@ -10,6 +9,12 @@ Used:
 -d3d9ex 
 +exec vaganykarc.cfg 
 -console
++mat_queue_mode 2
++cl_interp 0 
++cl_interp_ratio 1
+
+Might cause issues:
+- high 
 
 Could Be Useful:
 -novid

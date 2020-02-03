@@ -9,12 +9,14 @@ Used:
 -d3d9ex 
 +exec vaganykarc.cfg 
 -console
+-high
+-nojoy
+
+Might cause issues:
+- high
 +mat_queue_mode 2
 +cl_interp 0 
 +cl_interp_ratio 1
-
-Might cause issues:
-- high 
 
 Could Be Useful:
 -novid
